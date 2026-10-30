@@ -2,7 +2,7 @@
 
 ## Student Information
 - **Name:** Sairaj Yumnam
-- **USN / SRN:** [Your USN / SRN Here]
+- **SRN:** [R25EA200]
 
 ## Project Title
 **My First Git Project**
